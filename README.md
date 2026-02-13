@@ -28,7 +28,7 @@ Real-time infectious disease trend monitor for clinic operations managers. Pulls
 
 - **Portfolio:** [mitsukubo.vercel.app](https://mitsukubo.vercel.app)
 - **Email:** mitsk2002@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/mitsukubo](https://linkedin.com/in/mitsukubo)
 
 ---
 
